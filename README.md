@@ -16,12 +16,20 @@ This was a database project where I built a system to manage candidates, voters,
 3. Used materialized views to make frequently used queries run much faster.
 
 4. Connected the database with Python scripts, which helped in testing, validating, and interacting with the data more easily.
+
 ## Images from the Report
 Pictures from the main report have been added here for clarity:  
 
-<img src="images/er_diagram.jpeg" alt="ER Diagram" width="300">  
-<img src="images/sample_query1.jpeg" alt="Sample Query 1" width="300">  
-<img src="images/sample_query2.jpeg" alt="Sample Query 2" width="300">
+<table>
+  <tr>
+    <td><img src="images/er_diagram.jpeg" alt="ER Diagram" width="400"></td>
+    <td><img src="images/sample_query1.jpeg" alt="Sample Query 1" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/sample_query2.jpeg" alt="Sample Query 2" width="400"></td>
+  </tr>
+</table>
+
 
 ## Tech Used
 1. SQL (Microsoft SQL Server): Database design, queries.
