@@ -19,9 +19,9 @@ This was a database project where I built a system to manage candidates, voters,
 ## Images from the Report
 Pictures from the main report have been added here for clarity:  
 
-<img src="images/er_diagram.jpeg" alt="ER Diagram" width="400">  
-<img src="images/sample_query1.jpeg" alt="Sample Query 1" width="400">  
-<img src="images/sample_query2.jpeg" alt="Sample Query 2" width="400">
+<img src="images/er_diagram.jpeg" alt="ER Diagram" width="300">  
+<img src="images/sample_query1.jpeg" alt="Sample Query 1" width="300">  
+<img src="images/sample_query2.jpeg" alt="Sample Query 2" width="300">
 
 ## Tech Used
 1. SQL (Microsoft SQL Server): Database design, queries.
